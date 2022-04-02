@@ -29,27 +29,3 @@ body {
     font-size: 56px;
   }
 }
-
-// @media (max-width: 375px) and (min-width: 175px) {
-//   .liquid-h3, .post__content /deep/ h3 {
-//     font-size: calc(8.4px + (9.6 * (100vw - 175px)) / 201);
-//   }
-// }
-//
-// @media (max-width: 799px) and (min-width: 400px) {
-//   .liquid-h3, .post__content /deep/ h3 {
-//     letter-spacing: calc(0px + (-0.25 * (100vw - 400px)) / 400);
-//   }
-// }
-//
-// @media (max-width: 1599px) and (min-width: 800px) {
-//   .liquid-h3, .post__content /deep/ h3 {
-//     letter-spacing: calc(-0.25px + (0 * (100vw - 800px)) / 800);
-//   }
-// }
-//
-// @media (min-width: 1600px) {
-//   .liquid-h3, .post__content /deep/ h3 {
-//     letter-spacing: -0.25px;
-//   }
-// }
